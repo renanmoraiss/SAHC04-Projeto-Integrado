@@ -26,5 +26,4 @@ void calculo(int anoNascimento) {
     anoMillennial = anoNascimento - (anoAtual - anoNascimento);
     //
     printf("%d\n", anoMillennial);
-}// update for commit
-// update for commit
+}
